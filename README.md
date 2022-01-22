@@ -15,6 +15,11 @@
 <!-- YOUTUBE:END -->
 
 ---
+### 👨🏽‍💻Language and Tools:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
+
+---
 <p align="center">
   <em>Connect With Me:</em>
 </p>
