@@ -1,4 +1,4 @@
-<img src= "/Users/daryl/Projects/Github/YeFlair/header.png" alt = "GitHub Header")
+![](imagesheader.png)
 
 
 - 👋 Hi, I’m @YeFlair
