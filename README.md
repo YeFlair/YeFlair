@@ -1,5 +1,3 @@
-Here's our logo (hover to see the title text):
-
 ![alt text](/Users/daryl/Projects/Github/YeFlair/header.png "GitHub Header")
 
 
