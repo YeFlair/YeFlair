@@ -1,6 +1,5 @@
 Here's our logo (hover to see the title text):
 
-Inline-style: 
 ![alt text](/Users/daryl/Projects/Github/YeFlair/header.png "GitHub Header")
 
 
