@@ -1,9 +1,9 @@
 ![](images/header.png)
 
 - 👋 Hi, I’m @YeFlair
-- 👀 I’m interested in ...
+- 👀 I’m interested in collaborating in Open-Source project | Content Creation 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- ⚡️ Fun fact: gamer (PS5) / Funko Pop collector 
 ---
 ### 🖥 Latest Blog Post:
 <!-- BLOG-POST-LIST:START -->
