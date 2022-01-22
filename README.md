@@ -1,4 +1,4 @@
-![alt text](/Users/daryl/Projects/Github/YeFlair/header.png "GitHub Header")
+<img src= "/Users/daryl/Projects/Github/YeFlair/header.png" alt = "GitHub Header")
 
 
 - 👋 Hi, I’m @YeFlair
