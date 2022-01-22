@@ -10,6 +10,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+### 📹 Latest Youtube Video:
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
 <p align="center">
   <em>Connect With Me:</em>
 </p>
