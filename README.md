@@ -8,7 +8,6 @@
 ---
 ### 🖥 Latest Blog Post:
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/@CoolTableNerd/cheese-bdeafb56f259
 <!-- BLOG-POST-LIST:END -->
 
 ---
