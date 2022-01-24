@@ -1,6 +1,6 @@
 ![](images/header.png)
 
-- 👋 Hi, I’m @YeFlair - self-taught / coding bootcamp grauduate Software Engineer.
+- 👋 self-taught / coding bootcamp grauduate Software Engineer.
 - 🌱 I’m currently learning / continuing to get stronger at data structures and algorithms.
 - 👀 I’m interested in collaborating in content creation - via youtube / tiktok / IG Reels / Twitch. 
 - 🥅 2022 Goals: get hired as a Software Engineer | contribute to open source projects.
